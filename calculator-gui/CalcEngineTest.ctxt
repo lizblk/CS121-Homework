@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CalcEngineTest
+comment0.text=\n\ Test\ class\ for\ CalcEngine.\n\ Covers\ add,\ subtract,\ multiply,\ divide,\ division\ by\ zero,\ clear,\ toggleSign.\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testAddition()
+comment3.params=
+comment3.target=void\ testSubtraction()
+comment4.params=
+comment4.target=void\ testMultiplication()
+comment5.params=
+comment5.target=void\ testDivision()
+comment6.params=
+comment6.target=void\ testDivisionByZero()
+comment7.params=
+comment7.target=void\ testClear()
+comment8.params=
+comment8.target=void\ testToggleSign()
+comment9.params=
+comment9.target=void\ testChainedOperations()
+numComments=10
